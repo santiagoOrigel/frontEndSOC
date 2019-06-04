@@ -1,2 +1,6 @@
 first commit example
+
 PATOGATO
+
+Carlota probando GIT
+
