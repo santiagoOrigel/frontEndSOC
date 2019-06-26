@@ -3,7 +3,6 @@ IN ORDER TO TEST
 A COMMIT
 A MERGE 
 AND RESOLVE CONFLICT
-
+TESTING LINE DEVELOP PERMISSION
 testing permisions push
-
 ya termine mis filtros
