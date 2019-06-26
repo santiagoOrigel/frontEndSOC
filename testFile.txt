@@ -5,3 +5,5 @@ A MERGE
 AND RESOLVE CONFLICT
 
 testing permisions push
+
+ya termine mis filtros
