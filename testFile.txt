@@ -1,0 +1,7 @@
+INIT FILE 
+IN ORDER TO TEST
+A COMMIT
+A MERGE 
+AND RESOLVE CONFLICT
+
+testing permisions push
